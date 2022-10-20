@@ -102,20 +102,15 @@ The link: <a href="https://github.com/cormacsi/cormacsi.github.io">https://githu
 
 ## Useful links :shipit:
 
-* <a href="https://www.sitepoint.com/github-profile-readme/">How to write MarkDown?</a>
-* <a href="https://github.com/itsZed0/itsZed0">Inspirational repo of the artical author</a>
-* <a href="https://www.youtube.com/watch?v=OoncKvcfs0M&t=703s">You-Tube</a>
-* <a href="https://github.com/ipenywis/ipenywis">Inspirational repo from youtuber</a>
-* <a href="https://badges.pages.dev">Where I find badges?<a/>
-* <a href="https://forthebadge.com">Where I create my own badges.svg for social media</a>
-* <a href="https://github.com/DenverCoder1/github-readme-streak-stats">GitHub page on Streak Stats</a>
-* <a href="https://streak-stats.demolab.com">Streak Stats Demolab</a>
-* <a href="https://github.com/anuraghazra/github-readme-stats">Statistics on GitHub</a>
+* <a href="https://www.sitepoint.com/github-profile-readme/">How to write MarkDown?</a><---><a href="https://github.com/itsZed0/itsZed0">Inspirational repo of the artical author</a>
+* <a href="https://github.com/ipenywis/ipenywis">Inspirational repo from youtuber</a><---><a href="https://www.youtube.com/watch?v=OoncKvcfs0M&t=703s">You-Tube</a>
+* <a href="https://badges.pages.dev">Where I find badges?<a/><---><a href="https://forthebadge.com">Where I create my own badges.svg for social media</a>
+* <a href="https://github.com/DenverCoder1/github-readme-streak-stats">GitHub page on Streak Stats</a><---><a href="https://streak-stats.demolab.com">Streak Stats Demolab</a>
+* <a href="https://github.com/anuraghazra/github-readme-stats">Statistics on GitHub</a><---><a href="https://wakatime.com/">WAKA Time</a>
 
 ## Statistics :100:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=cormacsi&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
 
 <br />
 
