@@ -124,7 +124,7 @@ The link: <a href="https://github.com/cormacsi/cormacsi.github.io">https://githu
 
 ## Statistics :100:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=cormacsi&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=cormacsi&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <br />
 
