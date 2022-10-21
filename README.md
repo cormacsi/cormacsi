@@ -1,3 +1,5 @@
+<a name="readme-top"></a>
+
 # Hi I'm Polina<img src="images/say_hi.gif" width="60px" height="60px" alt="hi"><img src="images/daftpunkcat.gif" width="60px" height="60px" alt="hi">
 
 <div align="center">
@@ -46,6 +48,8 @@ Programming is <a href="https://gist.github.com/rxaviers/7360908">fun</a> (not a
 - :book:  My favourite book is _**"The Great Gatsby"** by Francis Scott Fitzgerald_.
 - :seat: Fun fact: my current job is at 35000 feet.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## I study :mortar_board:
 <a href="https://github.com/cormacsi/">
   <img src="images/hubbercat.png" alt="" width="350">
@@ -62,6 +66,8 @@ Programming is <a href="https://gist.github.com/rxaviers/7360908">fun</a> (not a
 * ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat) `+` ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 * ![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## What I read :closed_book:
 
 > Adding the literature list soon
@@ -71,6 +77,8 @@ Programming is <a href="https://gist.github.com/rxaviers/7360908">fun</a> (not a
   Here
  </summary>
 </details>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## I work with :octocat:
 
@@ -90,6 +98,8 @@ BTW, have you noticed that the GitHub logo is an <OCTOCAT>?
 * ![JetBrains Badge](https://img.shields.io/badge/JetBrains-000?logo=jetbrains&logoColor=fff&style=flat) `+` ![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ%20IDEA-000?logo=intellijidea&logoColor=fff&style=flat) `+` ![DataGrip Badge](https://img.shields.io/badge/DataGrip-000?logo=datagrip&logoColor=fff&style=flat)
 * ![Xcode Badge](https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=fff&style=flat)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## My last project :computer:
 
 The link: <a href="https://github.com/cormacsi/cormacsi.github.io">https://github.com/cormacsi/cormacsi.github.io</a>
@@ -100,6 +110,8 @@ The link: <a href="https://github.com/cormacsi/cormacsi.github.io">https://githu
   </a>
 </div>
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Useful links :shipit:
 
 * <a href="https://www.sitepoint.com/github-profile-readme/">How to write MarkDown?</a><---><a href="https://github.com/itsZed0/itsZed0">Inspirational repo of the artical author</a>
@@ -108,10 +120,14 @@ The link: <a href="https://github.com/cormacsi/cormacsi.github.io">https://githu
 * <a href="https://github.com/DenverCoder1/github-readme-streak-stats">GitHub page on Streak Stats</a><---><a href="https://streak-stats.demolab.com">Streak Stats Demolab</a>
 * <a href="https://github.com/anuraghazra/github-readme-stats">Statistics on GitHub</a><---><a href="https://wakatime.com/">WAKA Time</a>
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Statistics :100:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=cormacsi&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <br />
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p align="center">:copyright: Cormac Silver</p>
