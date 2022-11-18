@@ -25,15 +25,13 @@
   <a href="http://cormacsi.github.io">
     <img src="images/personal-website.svg" alt="Website">
   </a><br />
-  <a href="hhttps://www.instagram.com">
+  <a href="https://www.instagram.com/polyaperry/">
     <img src="images/instagram-polyaperry.svg" alt="Instagram">
   </a><br />
 </div>
  <p align="center">Priority contact way is telegram</p><br />
 
->For safety reasons the working links include github, telegram and website.<br />
-The links to whatsapp, gmail and instagram will be added later.<br />
-They temporary lead you to the official website.
+>For safety reasons the working links include github, telegram, instagram and website.<br />
 
 ## About me :woman_technologist:
 
@@ -41,10 +39,10 @@ I am currently studying at a programming school to become a full stack engineer.
 Programming is <a href="https://gist.github.com/rxaviers/7360908">fun</a> (not a rickroll, promise) :grin:, but also hard.
 
 - :statue_of_liberty:  I speak :gb: ,  :fr: and :es:.
-- :computer:  My most used line of code: `ls`.
+- :computer:  My most used line of code: `git add`.
 - :musical_score:  You can find my favourite music for code <a href="https://www.youtube.com/watch?v=jfKfPfyJRdk">here</a>.
 - :princess:  I'm listed in my mom's contacts as a **_princess_** :see_no_evil:.
-- :innocent:  My second most used line of code: `ls -la`.
+- :innocent:  My second most used line of code: `git commit -m`.
 - :book:  My favourite book is _**"The Great Gatsby"** by Francis Scott Fitzgerald_.
 - :seat: Fun fact: my current job is at 35000 feet.
 
