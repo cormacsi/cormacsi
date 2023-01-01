@@ -1,7 +1,6 @@
 <a name="readme-top"></a>
 
 # Hi I'm Polina<img src="images/say_hi.gif" width="60px" height="60px" alt="hi"><img src="images/daftpunkcat.gif" width="60px" height="60px" alt="hi">
-
 <div align="center">
   <a href="https://cormacsi.github.io">
     <img src="images/femalecat.png" alt="Logo" width="250" height="250">
@@ -29,9 +28,8 @@
     <img src="images/instagram-polyaperry.svg" alt="Instagram">
   </a><br />
 </div>
- <p align="center">Priority contact way is telegram</p><br />
-
->For safety reasons the working links include github, telegram, instagram and website.<br />
+ 
+>Priority contact way is telegram.<br />
 
 ## About me :woman_technologist:
 
@@ -39,12 +37,14 @@ I am currently studying at a programming school to become a full stack engineer.
 Programming is <a href="https://gist.github.com/rxaviers/7360908">fun</a> (not a rickroll, promise) :grin:, but also hard.
 
 - :statue_of_liberty:  I speak :gb: ,  :fr: and :es:.
-- :computer:  My most used line of code: `git add`.
+- :computer:  My most used line of code: `make`.
 - :musical_score:  You can find my favourite music for code <a href="https://www.youtube.com/watch?v=jfKfPfyJRdk">here</a>.
 - :princess:  I'm listed in my mom's contacts as a **_princess_** :see_no_evil:.
-- :innocent:  My second most used line of code: `git commit -m`.
 - :book:  My favourite book is _**"The Great Gatsby"** by Francis Scott Fitzgerald_.
 - :seat: Fun fact: my current job is at 35000 feet.
+- <a href="https://www.codewars.com/users/Polza">
+    <img src="https://www.codewars.com/users/Polza/badges/small" alt="">
+  </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -63,18 +63,6 @@ Programming is <a href="https://gist.github.com/rxaviers/7360908">fun</a> (not a
 * ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 * ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat) `+` ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 * ![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## What I read :closed_book:
-
-> Adding the literature list soon
-
-<details>
- <summary>
-  Here
- </summary>
-</details>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -110,20 +98,9 @@ The link: <a href="https://github.com/cormacsi/cormacsi.github.io">https://githu
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Useful links :shipit:
-
-* <a href="https://www.sitepoint.com/github-profile-readme/">How to write MarkDown?</a><---><a href="https://github.com/itsZed0/itsZed0">Inspirational repo of the artical author</a>
-* <a href="https://github.com/ipenywis/ipenywis">Inspirational repo from youtuber</a><---><a href="https://www.youtube.com/watch?v=OoncKvcfs0M&t=703s">You-Tube</a>
-* <a href="https://badges.pages.dev">Where I find badges?<a/><---><a href="https://forthebadge.com">Where I create my own badges.svg for social media</a>
-* <a href="https://github.com/DenverCoder1/github-readme-streak-stats">GitHub page on Streak Stats</a><---><a href="https://streak-stats.demolab.com">Streak Stats Demolab</a>
-* <a href="https://github.com/anuraghazra/github-readme-stats">Statistics on GitHub</a><---><a href="https://wakatime.com/">WAKA Time</a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## Statistics :100:
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=cormacsi&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
+  
 <br />
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
