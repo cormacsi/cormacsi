@@ -42,10 +42,6 @@ Programming is <a href="https://gist.github.com/rxaviers/7360908">fun</a> (not a
 - :princess:  I'm listed in my mom's contacts as a **_princess_** :see_no_evil:.
 - :book:  My favourite book is _**"The Great Gatsby"** by Francis Scott Fitzgerald_.
 - :seat: Fun fact: my current job is at 35000 feet.
-- <a href="https://www.codewars.com/users/Polza">
-    <img src="https://www.codewars.com/users/Polza/badges/small" alt="">
-  </a>
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## I study :mortar_board:
@@ -99,10 +95,18 @@ The link: <a href="https://github.com/cormacsi/cormacsi.github.io">https://githu
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Statistics :100:
-[![GitHub Streak](https://streak-stats.demolab.com?user=cormacsi&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-  
-<br />
+<div align="center">
+  <a href="https://cormacsi.github.io">
+    <img src="https://streak-stats.demolab.com?user=cormacsi&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="">
+  </a>
+</div>
+<div align="center">
+  <a href="https://www.codewars.com/users/Polza">
+    <img src="https://www.codewars.com/users/Polza/badges/large" alt="">
+  </a>
+</div>
 
+<br />
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p align="center">:copyright: Cormac Silver</p>
