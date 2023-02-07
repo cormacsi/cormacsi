@@ -21,7 +21,7 @@
   <a href="mailto:name@email.com">
     <img src="images/gmail-me.svg" alt="Gmail">
   </a>
-  <a href="http://cormacsi.github.io">
+  <a href="http://cormacsi.github.io/first.version/">
     <img src="images/personal-website.svg" alt="Website">
   </a><br />
   <a href="https://www.instagram.com/polyaperry/">
@@ -30,6 +30,7 @@
 </div>
  
 >Priority contact way is telegram.<br />
+>Also working on the new web-site: https://cormacsi.github.io/home/
 
 ## About me :woman_technologist:
 
@@ -84,7 +85,7 @@ BTW, have you noticed that the GitHub logo is an <OCTOCAT>?
 
 ## My last project :computer:
 
-The link: <a href="https://github.com/cormacsi/cormacsi.github.io">https://github.com/cormacsi/cormacsi.github.io</a>
+The link: <a href="https://github.com/cormacsi/a.fairytale">https://github.com/cormacsi/a.fairytale</a>
 
 <div align="center">
   <a href="https://cormacsi.github.io">
