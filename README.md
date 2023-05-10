@@ -28,21 +28,18 @@
     <img src="images/instagram-polyaperry.svg" alt="Instagram">
   </a><br />
 </div>
- 
->Priority contact way is telegram.<br />
->Also working on the new web-site: https://cormacsi.github.io/home/
 
 ## About me :woman_technologist:
 
-I am currently studying at a programming school to become a full stack engineer.<br />
+I am currently studying at a programming school to become a backend software engineer.<br />
 Programming is <a href="https://gist.github.com/rxaviers/7360908">fun</a> (not a rickroll, promise) :grin:, but also hard.
 
 - :statue_of_liberty:  I speak :gb: ,  :fr: and :es:.
-- :computer:  My most used line of code: `make`.
+- :computer:  My most used line of code: `gcc`.
 - :musical_score:  You can find my favourite music for code <a href="https://www.youtube.com/watch?v=jfKfPfyJRdk">here</a>.
 - :princess:  I'm listed in my mom's contacts as a **_princess_** :see_no_evil:.
 - :book:  My favourite book is _**"The Great Gatsby"** by Francis Scott Fitzgerald_.
-- :seat: Fun fact: my current job is at 35000 feet.
+- :seat: Fun fact: my last job was at 35000 feet.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## I study :mortar_board:
@@ -55,9 +52,7 @@ Programming is <a href="https://gist.github.com/rxaviers/7360908">fun</a> (not a
 * ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat) `/` ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
 *  <img src="images/java_button.svg" width="65">
 * ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat) `+` ![Hibernate Badge](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=fff&style=flat)
-* ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
 * ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat) `/` ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
-* ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 * ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat) `+` ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 * ![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat)
 
@@ -77,16 +72,13 @@ BTW, have you noticed that the GitHub logo is an <OCTOCAT>?
     
 * ![macOS Badge](https://img.shields.io/badge/macOS-000?logo=macos&logoColor=fff&style=flat) `/` ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat) `/` ![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat)
 * ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat) `/` ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat) `/` ![GitLab Badge](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff&style=flat)
-* ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat) `/` ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
+* ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 * ![JetBrains Badge](https://img.shields.io/badge/JetBrains-000?logo=jetbrains&logoColor=fff&style=flat) `+` ![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ%20IDEA-000?logo=intellijidea&logoColor=fff&style=flat) `+` ![DataGrip Badge](https://img.shields.io/badge/DataGrip-000?logo=datagrip&logoColor=fff&style=flat)
-* ![Xcode Badge](https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=fff&style=flat)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## My last project :computer:
-
-The link: <a href="https://github.com/cormacsi/a.fairytale">https://github.com/cormacsi/a.fairytale</a>
-
+I am currently working on educational projects in School_21.
 <div align="center">
   <a href="https://cormacsi.github.io">
     <img src="images/NUX_Octodex.gif" alt="" width="300">
@@ -110,4 +102,4 @@ The link: <a href="https://github.com/cormacsi/a.fairytale">https://github.com/c
 <br />
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<p align="center">:copyright: Cormac Silver</p>
+<p align="center">:copyright: Cormac Silver / Polza</p>
