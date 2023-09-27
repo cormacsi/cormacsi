@@ -12,17 +12,8 @@
   <a href="https://github.com/cormacsi/">
     <img src="images/github-cormacsi.svg" alt="GitHub">
   </a>
-  <a href="https://web.whatsapp.com">
-    <img src="images/whatsapp-me.svg" alt="WhatsApp">
-  </a>
    <a href="https://t.me/ampolza">
     <img src="images/telegram-ampolza.svg" alt="Telegram">
-  </a><br />
-  <a href="mailto:name@email.com">
-    <img src="images/gmail-me.svg" alt="Gmail">
-  </a>
-  <a href="http://cormacsi.github.io/first.version/">
-    <img src="images/personal-website.svg" alt="Website">
   </a><br />
   <a href="https://www.instagram.com/polyaperry/">
     <img src="images/instagram-polyaperry.svg" alt="Instagram">
@@ -31,15 +22,10 @@
 
 ## About me :woman_technologist:
 
-I am currently studying at a programming school to become a backend software engineer.<br />
-Programming is <a href="https://gist.github.com/rxaviers/7360908">fun</a> (not a rickroll, promise) :grin:, but also hard.
+I am currently studying at a programming school to become a backend software engineer.
 
 - :statue_of_liberty:  I speak :gb: ,  :fr: and :es:.
-- :computer:  My most used line of code: `gcc`.
 - :musical_score:  You can find my favourite music for code <a href="https://www.youtube.com/watch?v=jfKfPfyJRdk">here</a>.
-- :princess:  I'm listed in my mom's contacts as a **_princess_** :see_no_evil:.
-- :book:  My favourite book is _**"The Great Gatsby"** by Francis Scott Fitzgerald_.
-- :seat: Fun fact: my last job was at 35000 feet.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## I study :mortar_board:
