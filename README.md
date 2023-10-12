@@ -29,9 +29,6 @@ I am currently studying at a programming school to become a backend software eng
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## I study :mortar_board:
-<a href="https://github.com/cormacsi/">
-  <img src="images/hubbercat.png" alt="" width="350">
-</a>
 
 #### Here is a list of things that I currently study in ![42 Badge](https://img.shields.io/badge/42-000?logo=42&logoColor=fff&style=flat)````/ 2 = 21````:
 
@@ -45,14 +42,6 @@ I am currently studying at a programming school to become a backend software eng
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## I work with :octocat:
-
-````sh
-BTW, have you noticed that the GitHub logo is an <OCTOCAT>?
-````
-
-<a href="https://github.com/cormacsi/">
-  <img src="images/Brennatocat.png" alt="" width="500">
-</a>
 
 #### I work with the following OS, IDEs, Apps, distributed version control systems:
     
@@ -75,10 +64,9 @@ I am currently working on educational projects in School_21.
 
 ## Statistics :100:
 <div align="center">
-  <a href="https://cormacsi.github.io">
-    <img src="https://streak-stats.demolab.com?user=cormacsi&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="">
-  </a>
+  <img src="https://leetcard.jacoblin.cool/cormacsi?theme=nord&font=Nova%20Round"/>
 </div>
+
 <div align="center">
   <a href="https://www.codewars.com/users/Polza">
     <img src="https://www.codewars.com/users/Polza/badges/large" alt="">
@@ -88,4 +76,4 @@ I am currently working on educational projects in School_21.
 <br />
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<p align="center">:copyright: Cormac Silver / Polza</p>
+<p align="center">:copyright: Polza</p>
