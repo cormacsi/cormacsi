@@ -9,39 +9,31 @@
 
   <h3 align="center">Contact me by:</h3>
 <div align="center">
+   <a href="https://t.me/ampolza">
+    <img src="images/telegram-ampolza.svg" alt="Telegram">
+  </a>
+  <a href="mailto:reshnikova.polina@gmail.com">
+    <img src="images/gmail-me.svg" alt="Gmail">
+  </a><br />
   <a href="https://github.com/cormacsi/">
     <img src="images/github-cormacsi.svg" alt="GitHub">
   </a>
-   <a href="https://t.me/ampolza">
-    <img src="images/telegram-ampolza.svg" alt="Telegram">
-  </a><br />
-  <a href="https://www.instagram.com/polyaperry/">
-    <img src="images/instagram-polyaperry.svg" alt="Instagram">
-  </a><br />
 </div>
 
 ## About me :woman_technologist:
 
-I am currently studying at a programming school to become a backend software engineer.
+Hi there! I’m a passionate Java Developer with 1.5 years of experience in crafting robust and scalable applications. I specialize in building applications with Spring, Hibernate, and RESTful APIs. My expertise extends to optimizing application performance and ensuring code quality. I thrive in collaborative, agile environments and am always eager to tackle new challenges and learn new technologies.
 
-- :statue_of_liberty:  I speak :gb: ,  :fr: and :es:.
-- :musical_score:  You can find my favourite music for code <a href="https://www.youtube.com/watch?v=jfKfPfyJRdk">here</a>.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## Skills & Badges 🏅
 
-## I study :mortar_board:
-
-#### Here is a list of things that I currently study in ![42 Badge](https://img.shields.io/badge/42-000?logo=42&logoColor=fff&style=flat)````/ 2 = 21````:
-
-* ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat) `/` ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
 *  <img src="images/java_button.svg" width="65">
 * ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat) `+` ![Hibernate Badge](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=fff&style=flat)
 * ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat) `/` ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
-* ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat) `+` ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-* ![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat)
+* ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat) `/` ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## I work with :octocat:
+## Tools & Platforms 🛠️
 
 #### I work with the following OS, IDEs, Apps, distributed version control systems:
     
@@ -52,17 +44,7 @@ I am currently studying at a programming school to become a backend software eng
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## My last project :computer:
-I am currently working on educational projects in School_21.
-<div align="center">
-  <a href="https://cormacsi.github.io">
-    <img src="images/NUX_Octodex.gif" alt="" width="300">
-  </a>
-</div>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Statistics :100:
+## Coding Achievements & Rankings 🎯
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/cormacsi?theme=nord&font=Nova%20Round"/>
 </div>
